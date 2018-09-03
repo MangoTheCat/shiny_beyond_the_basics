@@ -11,3 +11,5 @@ Install the following R packages from CRAN in the usual way:
 ```r
 install.packages(c("shiny", "shinydashboard", "ggplot2", "dplyr", "readr", "readxl", "DT"))
 ```
+
+You will also need a copy of all of the Example and Exercise apps to work from during the workshop. Please ensure that you also download these files to have available during the workshop.
